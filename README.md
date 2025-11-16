@@ -6,13 +6,13 @@
 
 
 ### 👨‍💻 About Me
-•	🔭 Currently Building: Modern Full-Stack Applications (Frontend ⚡ + Backend 💾 + Databases 🗄️)
-•	🤖 Goal: Become an AI & Machine Learning Engineer
-•	🚀 Focus Area: JavaScript, Python, PHP, Data Structures & Algorithmic Thinking
-•	💻 Passion: Writing clean, scalable & production-ready code
-•	📚 Habit: Reading documentation like it’s a power-up for my brain 📖⚡
-•	☁️ Next Step: Explore Deep Learning, Neural Networks & Cloud AI services
-•	🤓 Fun Fact: Debugging feels like detective work—just with semicolons 😆
+🔭 Currently Building: Modern Full-Stack Applications (Frontend ⚡ + Backend 💾 + Databases 🗄️)
+🤖 Goal: Become an AI & Machine Learning Engineer
+🚀 Focus Area: JavaScript, Python, PHP, Data Structures & Algorithmic Thinking
+💻 Passion: Writing clean, scalable & production-ready code
+📚 Habit: Reading documentation like it’s a power-up for my brain 📖⚡
+☁️ Next Step: Explore Deep Learning, Neural Networks & Cloud AI services
+🤓 Fun Fact: Debugging feels like detective work—just with semicolons 😆
 
 
 ---
