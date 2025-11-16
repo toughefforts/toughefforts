@@ -33,7 +33,7 @@
 
 #### 💻 Languages & Frameworks
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
-![PHP](https://img.shields.io/badge/-PHP-007ACC?style=flat-square&logo=php)
+![PHP](https://img.shields.io/badge/-PHP-black?style=flat-square&logo=php)
 ![](https://img.shields.io/badge/--00ADD8?style=flat-square&logo=c)
 ![C++](https://img.shields.io/badge/-C++-339933?style=flat-square&logo=cpp)
 ![Python](https://img.shields.io/badge/-Python-61DAFB?style=flat-square&logo=python)
