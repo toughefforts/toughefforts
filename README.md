@@ -33,12 +33,10 @@
 
 #### 💻 Languages & Frameworks
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
-![PHP](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=php)
-![C](https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=c)
-![C++](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=c++)
-![Python](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=python)
-![Next.js](https://img.shields.io/badge/-Next.js-black?style=flat-square&logo=next.js)
-![NestJS](https://img.shields.io/badge/-NestJS-E0234E?style=flat-square&logo=nestjs)
+![PHP](https://img.shields.io/badge/-PHP-007ACC?style=flat-square&logo=php)
+![C](https://img.shields.io/badge/-C-00ADD8?style=flat-square&logo=c)
+![C++](https://img.shields.io/badge/-C++-339933?style=flat-square&logo=cpp)
+![Python](https://img.shields.io/badge/-Python-61DAFB?style=flat-square&logo=python)
 
 #### 🛠️ Tools & Platforms
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker)
