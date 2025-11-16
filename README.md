@@ -59,19 +59,18 @@
 ---
 <h2>🎓 Education Qualification</h2>
 
-**• BCA (Bachelor of Computer Applications)**  
-&nbsp;&nbsp;📍 *Indira Gandhi National Open University, Delhi*  
-&nbsp;&nbsp;📅 *2023–2026*  
-&nbsp;&nbsp;🎯 *Pursuing*
+<b>• BCA (Bachelor of Computer Applications)</b><br>
+&nbsp;&nbsp;📍 <i>Indira Gandhi National Open University, Delhi</i><br>
+&nbsp;&nbsp;📅 <i>2023–2026</i><br>
+&nbsp;&nbsp;🎯 <i>Pursuing</i><br><br>
 
-**• Higher Secondary (12th)**  
-&nbsp;&nbsp;📍 *Central Board of Secondary Education (CBSE)*  
-&nbsp;&nbsp;📅 *2022–2023*  
-&nbsp;&nbsp;📊 *78%*
+<b>• Higher Secondary (12th)</b><br>
+&nbsp;&nbsp;📍 <i>Central Board of Secondary Education (CBSE)</i><br>
+&nbsp;&nbsp;📅 <i>2022–2023</i><br>
+&nbsp;&nbsp;📊 <i>78%</i><br><br>
 
-**• Matriculation (10th)**  
-&nbsp;&nbsp;📍 *Central Board of Secondary Education (CBSE)*  
-&nbsp;&nbsp;📅 *2020–2021*  
-&nbsp;&nbsp;📊 *54%*
-
+<b>• Matriculation (10th)</b><br>
+&nbsp;&nbsp;📍 <i>Central Board of Secondary Education (CBSE)</i><br>
+&nbsp;&nbsp;📅 <i>2020–2021</i><br>
+&nbsp;&nbsp;📊 <i>54%</i>
 
