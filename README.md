@@ -41,7 +41,7 @@
 #### 🛠️ Database Frameworks & Platforms
 ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=for-the-badge&logo=mongodb&logoColor=green)
 ![MySQL](https://img.shields.io/badge/MySQL-black?style=for-the-badge&logo=mysql&logoColor=white)
-![Netlify](https://img.shields.io/badge/-Netlify-00C7B7?style=flat-square&logo=netlify)
+![Netlify](https://img.shields.io/badge/-netlify-black?style=for-the-badge&logo=netlify&logoColor=green)
 
 #### 🧰 Dev Tools
 ![VS Code](https://img.shields.io/badge/-VSCode-007ACC?style=flat-square&logo=visual-studio-code)
