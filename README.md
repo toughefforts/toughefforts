@@ -46,10 +46,5 @@
 #### 🧰 Dev Tools & Frontend Framework
 ![VS Code](https://img.shields.io/badge/-VSCode-007ACC?style=flat-square&logo=visual-studio-code)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-black?style=for-the-badge&logo=bootstrap&logoColor=#563d7c)
----
-
-### Top Usage Languages:
-
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=said7388&layout=compact&theme=algolia&hide_border=true&&langs_count=10" />
 
 ---
