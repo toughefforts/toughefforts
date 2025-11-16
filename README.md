@@ -86,10 +86,11 @@
 
 ## 💼 Experience
 
-### 🔹 Online Digital Work  
-**KRISHNA CYBER CAFE**  
-📅 2023 – Present  
-💻 Worked on Aadhar Card, Pan Card, Form-Filling,etc.
+<b>• Online Digital Work</b><br>
+&nbsp;&nbsp;📍 <i>KRISHNA CYBER CAFE, Delhi</i><br>
+&nbsp;&nbsp;📅 <i>2023–Present</i><br>
+&nbsp;&nbsp;💻 <i>Worked on Aadhar Card, Pan Card, Form-Filling,etc.</i><br>
+
 
 ---
 
