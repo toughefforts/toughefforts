@@ -69,7 +69,7 @@
 &nbsp;&nbsp;📅 *2022–2023*  
 &nbsp;&nbsp;📊 *78%*
 
-**• Secondary (10th)**  
+**• Matriculation (10th)**  
 &nbsp;&nbsp;📍 *Central Board of Secondary Education (CBSE)*  
 &nbsp;&nbsp;📅 *2020–2021*  
 &nbsp;&nbsp;📊 *54%*
