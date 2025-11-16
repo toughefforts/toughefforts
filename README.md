@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Montserrat&weight=700&size=40&duration=8000&pause=800&color=FFFFFF&center=true&vCenter=true&width=800&lines=✨+HEY+THERE;🧩+I'M+SACHIN+SHARMA;💻+FULL+STACK+WEB+DEVELOPER)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Montserrat&weight=700&size=40&duration=7000&pause=800&color=FFFFFF&center=true&vCenter=true&width=800&lines=✨+HEY+THERE;🧩+I'M+SACHIN+SHARMA;💻+FULL+STACK+WEB+DEVELOPER)](https://git.io/typing-svg)
 
 
 
