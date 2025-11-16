@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Montserrat&size=40&duration=6000&pause=800&color=F7A60A&center=true&vCenter=true&width=800&lines=%F0%9F%8E%89+HELLO+EVERYONE%21%7C&repeat=true)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Montserrat&size=40&duration=10000&pause=800&color=F7A60A&center=true&vCenter=true&width=800&lines=🎉+HELLO+EVERYONE!)](https://git.io/typing-svg)
 
 
 
