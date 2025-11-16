@@ -82,7 +82,6 @@
 &nbsp;&nbsp;📅 <i>2023–2025</i><br>
 &nbsp;&nbsp;🎯 <i>Completed</i><br><br>
 
----
 
 ## 💼 Experience
 
