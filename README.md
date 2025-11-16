@@ -37,7 +37,7 @@
 ### 🛠️ Tech Stack
 
 #### 💻 Languages
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
+![JavaScript](https://img.shields.io/badge/JavaScript-black?logo=javascript&logoColor=white&labelFontSize=35px&logoWidth=80&style=for-the-badge)
 ![PHP](https://img.shields.io/badge/-PHP-black?style=flat-square&logo=php)
 ![C](https://img.shields.io/badge/-black?style=flat-square&logo=c)
 ![C++](https://img.shields.io/badge/-CPP-black?style=flat-square&logo=C%2B%2B&logoColor=white)
