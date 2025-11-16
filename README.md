@@ -83,7 +83,7 @@
 &nbsp;&nbsp;🎯 <i>Completed</i><br><br>
 
 
-## 💼 Experience
+## 💼 Work Experience
 
 <b>• Online Digital Work</b><br>
 &nbsp;&nbsp;📍 <i>Krishna Cyber Cafe, Delhi</i><br>
