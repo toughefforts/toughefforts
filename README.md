@@ -44,7 +44,7 @@
 ![Netlify](https://img.shields.io/badge/-netlify-black?style=for-the-badge&logo=netlify&logoColor=green)
 
 #### 🧰 Dev Tools & Frontend Framework
-![VS Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?logo=visualstudiocode&logoColor=fff&style=plastic)
+![VS Code](https://img.shields.io/badge/-VSCode-007ACC?style=flat-square&logo=visual-studio-code)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-black?style=for-the-badge&logo=bootstrap&logoColor=#563d7c)
 
 ---
