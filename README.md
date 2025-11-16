@@ -35,7 +35,7 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![PHP](https://img.shields.io/badge/-PHP-black?style=flat-square&logo=php)
 ![C](https://img.shields.io/badge/-black?style=flat-square&logo=c)
-![](https://img.shields.io/badge/C++-black?style=flat-square&logo=C%2B%2B&logoColor=black)
+![C++](https://img.shields.io/badge/-black?style=flat-square&logo=C%2B%2B&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python)
 
 #### 🛠️ Tools & Platforms
