@@ -72,8 +72,7 @@
 <b>• Matriculation (10th)</b><br>
 &nbsp;&nbsp;📍 <i>Central Board of Secondary Education (CBSE), Delhi</i><br>
 &nbsp;&nbsp;📅 <i>2020–2021</i><br>
-&nbsp;&nbsp;📊 <i>54%</i>
-
+&nbsp;&nbsp;📊 <i>54%</i><br>
 
 
 <h2>🖥️ Diploma</h2>
