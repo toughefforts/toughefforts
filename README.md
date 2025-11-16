@@ -59,45 +59,7 @@
 ---
 <h2>🎓 Education Qualification</h2>
 
-<div style="border-left: 2px solid #d9d9d9; padding-left: 20px; margin-left: 10px;">
+- **BCA (Bachelor of Computer Applications)** — Indira Gandhi National Open University • City, Delhi — **2023–2026** • Pursuing 
+- **Higher Secondary (12th)** — Central Board of Secondary Education • CBSE — **2022–2023** • 78%  
+- **Secondary (10th)** — Central Board of Secondary Education • CBSE — **2020–2021** • 54%
 
-  <!-- BCA -->
-  <div style="position: relative; margin-bottom: 30px;">
-    <div style="
-      width: 12px; height: 12px;
-      background: white; border: 3px solid #222;
-      border-radius: 50%;
-      position: absolute; left: -28px; top: 4px;">
-    </div>
-
-    <h3 style="margin: 0;">Bachelor of Computer Applications (BCA) <span style="float: right; color: #555;">2022–2025</span></h3>
-    <p style="margin: 0; color: #777;">🏫 XYZ University • City, State • CGPA: 8.2</p>
-  </div>
-
-  <!-- Class 12 -->
-  <div style="position: relative; margin-bottom: 30px;">
-    <div style="
-      width: 12px; height: 12px;
-      background: white; border: 3px solid #222;
-      border-radius: 50%;
-      position: absolute; left: -28px; top: 4px;">
-    </div>
-
-    <h3 style="margin: 0;">Higher Secondary (12th) <span style="float: right; color: #555;">2021–2022</span></h3>
-    <p style="margin: 0; color: #777;">🏫 ABC Senior Secondary School • CBSE • 88%</p>
-  </div>
-
-  <!-- Class 10 -->
-  <div style="position: relative; margin-bottom: 30px;">
-    <div style="
-      width: 12px; height: 12px;
-      background: white; border: 3px solid #222;
-      border-radius: 50%;
-      position: absolute; left: -28px; top: 4px;">
-    </div>
-
-    <h3 style="margin: 0;">Secondary (10th) <span style="float: right; color: #555;">2019–2020</span></h3>
-    <p style="margin: 0; color: #777;">🏫 ABC Senior Secondary School • CBSE • 92%</p>
-  </div>
-
-</div>
