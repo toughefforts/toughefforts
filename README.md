@@ -45,7 +45,7 @@
 
 #### 🧰 Dev Tools
 ![VS Code](https://img.shields.io/badge/-VSCode-007ACC?style=flat-square&logo=visual-studio-code)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-black.svg?style=for-the-badge&logo=bootstrap&logoColor=white&labelColor=6f2cff)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-black?style=for-the-badge&logo=bootstrap&logoColor=#563d7c)
 ---
 
 ### Top Usage Languages:
