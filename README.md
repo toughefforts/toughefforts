@@ -82,3 +82,15 @@
 &nbsp;&nbsp;📅 <i>2023–2025</i><br>
 &nbsp;&nbsp;🎯 <i>Completed</i><br><br>
 
+---
+
+## 💼 Experience
+
+### 🔹 Online Digital Work  
+**KRISHNA CYBER CAFE**  
+📅 2023 – Present  
+💻 Worked on Aadhar Card, Pan Card, Form-Filling,etc.
+
+---
+
+
