@@ -35,8 +35,8 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![PHP](https://img.shields.io/badge/-PHP-black?style=flat-square&logo=php)
 ![C](https://img.shields.io/badge/-black?style=flat-square&logo=c)
-![C++](https://img.shields.io/badge/-00599C?style=flat-square&logo=C%2B%2B&logoColor=black)
-![Python](https://img.shields.io/badge/-Python-61DAFB?style=flat-square&logo=python)
+![C++](https://img.shields.io/badge/-C++-black?style=flat-square&logo=C%2B%2B&logoColor=black)
+![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python)
 
 #### 🛠️ Tools & Platforms
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker)
