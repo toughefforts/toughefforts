@@ -90,4 +90,7 @@
 &nbsp;&nbsp;📅 <i>2023–Present</i><br>
 &nbsp;&nbsp;💻 <i>Worked on Aadhar Card, Pan Card, Form-Filling, etc.</i><br>
 
+---
+
+![Most Used Languages](assets/languages.svg)
 
