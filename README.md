@@ -59,7 +59,7 @@
 ---
 <h2>🎓 Education Qualification</h2>
 
-<b>• BCA (Bachelor of Computer Applications)</b>&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<b>• Higher Secondary (12th)</b><br>
+<b>• BCA (Bachelor of Computer Applications)</b>&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; <b>• Higher Secondary (12th)</b><br>
 &nbsp;&nbsp;📍 <i>Indira Gandhi National Open University (IGNOU), Delhi</i>&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;📍 <i>Central Board of Secondary Education (CBSE), Delhi</i><br>
 &nbsp;&nbsp;📅 <i>2023–2026</i><br>
 &nbsp;&nbsp;🎯 <i>Pursuing</i><br><br>
