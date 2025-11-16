@@ -48,7 +48,9 @@
 ![MySQL](https://img.shields.io/badge/MySQL-black?style=for-the-badge&logo=mysql&logoColor=white)
 ![Netlify](https://img.shields.io/badge/-netlify-black?style=for-the-badge&logo=netlify&logoColor=green)
 
-#### 🧰 Frontend Framework/Libraries
+#### 🎨 Frontend Framework/Libraries
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-black?style=for-the-badge&logo=bootstrap&logoColor=#563d7c)
 
 ---
+#### 🤖 Ai Tools
+![ChatGPT](https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
