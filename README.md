@@ -54,4 +54,4 @@
 ---
 #### 🤖 Ai Tools
 ![ChatGPT](https://img.shields.io/badge/chatGPT-black?style=for-the-badge&logo=openai&logoColor=74aa9c)
-![BlackBox](https://img.shields.io/badge/Github%30Copilot-black?logo=github-copilot&logoColor=white)
+![BlackBox](https://img.shields.io/badge/Github%50Copilot-black?logo=github-copilot&logoColor=white)
