@@ -88,7 +88,7 @@
 <b>• Online Digital Work</b><br>
 &nbsp;&nbsp;📍 <i>Krishna Cyber Cafe, Delhi</i><br>
 &nbsp;&nbsp;📅 <i>2023–Present</i><br>
-&nbsp;&nbsp;💻 <i>Worked on Aadhar Card, Pan Card, Form-Filling, etc.</i><br>
+&nbsp;&nbsp;💻 <i>Worked on Aadhar Card, Pan Card, Ticket Booking, Form-Filling, etc.</i><br>
 
 ---
 ### 🔥 Top Usage Languages
