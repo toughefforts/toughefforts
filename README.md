@@ -1,4 +1,5 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Montserrat&size=40&duration=8000&pause=800&color=F7A60A&center=true&vCenter=true&width=800&lines=🎉+HELLO+EVERYONE!)](https://git.io/typing-svg)
+[![Typing SVG](https://typingsvg.vercel.app/api/svg?lines=%5B%7B%22text%22%3A%22%F0%9F%8E%89+HELLO+EVERYONE%21%22%7D%5D&cursor=straight&speed=3&size=40&color=F7A60A&width=800)](https://github.com/whiteSHADOW1234/TypingSVG)
+
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
