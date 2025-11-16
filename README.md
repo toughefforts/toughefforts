@@ -61,7 +61,7 @@
 
 <b>• BCA (Bachelor of Computer Applications)</b><br>
 &nbsp;&nbsp;📍 <i>Indira Gandhi National Open University (IGNOU), Delhi</i><br>
-&nbsp;&nbsp;📅 <i>2023–2026</i><br>
+&nbsp;&nbsp;📅 <i>2023–Present</i><br>
 &nbsp;&nbsp;🎯 <i>Pursuing</i><br><br>
 
 <b>• Higher Secondary (12th)</b><br>
