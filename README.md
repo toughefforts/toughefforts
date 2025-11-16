@@ -63,7 +63,6 @@
 
 <div style="border-left: 3px solid #d9d9d9; padding-left: 20px; margin-left: 10px;">
 
-  <!-- BCA -->
   <div style="position: relative; margin-bottom: 25px;">
     <div style="
       width: 12px; height: 12px;
@@ -78,7 +77,6 @@
     &nbsp;&nbsp;🎯 <i>Pursuing</i>
   </div>
 
-  <!-- Class 12 -->
   <div style="position: relative; margin-bottom: 25px;">
     <div style="
       width: 12px; height: 12px;
@@ -93,7 +91,6 @@
     &nbsp;&nbsp;📊 <i>78%</i>
   </div>
 
-  <!-- Class 10 -->
   <div style="position: relative; margin-bottom: 5px;">
     <div style="
       width: 12px; height: 12px;
