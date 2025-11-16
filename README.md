@@ -59,18 +59,56 @@
 ---
 <h2>🎓 Education Qualification</h2>
 
-<b>• BCA (Bachelor of Computer Applications)</b><br>
-&nbsp;&nbsp;📍 <i>Indira Gandhi National Open University, Delhi</i><br>
-&nbsp;&nbsp;📅 <i>2023–2026</i><br>
-&nbsp;&nbsp;🎯 <i>Pursuing</i><br><br>
+<div style="font-family: Verdana, sans-serif;">
 
-<b>• Higher Secondary (12th)</b><br>
-&nbsp;&nbsp;📍 <i>Central Board of Secondary Education (CBSE)</i><br>
-&nbsp;&nbsp;📅 <i>2022–2023</i><br>
-&nbsp;&nbsp;📊 <i>78%</i><br><br>
+<div style="border-left: 3px solid #d9d9d9; padding-left: 20px; margin-left: 10px;">
 
-<b>• Matriculation (10th)</b><br>
-&nbsp;&nbsp;📍 <i>Central Board of Secondary Education (CBSE)</i><br>
-&nbsp;&nbsp;📅 <i>2020–2021</i><br>
-&nbsp;&nbsp;📊 <i>54%</i>
+  <!-- BCA -->
+  <div style="position: relative; margin-bottom: 25px;">
+    <div style="
+      width: 12px; height: 12px;
+      background: white; border: 3px solid #222;
+      border-radius: 50%;
+      position: absolute; left: -29px; top: 4px;">
+    </div>
+
+    <b>• BCA (Bachelor of Computer Applications)</b><br>
+    &nbsp;&nbsp;📍 <i>Indira Gandhi National Open University, Delhi</i><br>
+    &nbsp;&nbsp;📅 <i>2023–2026</i><br>
+    &nbsp;&nbsp;🎯 <i>Pursuing</i>
+  </div>
+
+  <!-- Class 12 -->
+  <div style="position: relative; margin-bottom: 25px;">
+    <div style="
+      width: 12px; height: 12px;
+      background: white; border: 3px solid #222;
+      border-radius: 50%;
+      position: absolute; left: -29px; top: 4px;">
+    </div>
+
+    <b>• Higher Secondary (12th)</b><br>
+    &nbsp;&nbsp;📍 <i>Central Board of Secondary Education (CBSE)</i><br>
+    &nbsp;&nbsp;📅 <i>2022–2023</i><br>
+    &nbsp;&nbsp;📊 <i>78%</i>
+  </div>
+
+  <!-- Class 10 -->
+  <div style="position: relative; margin-bottom: 5px;">
+    <div style="
+      width: 12px; height: 12px;
+      background: white; border: 3px solid #222;
+      border-radius: 50%;
+      position: absolute; left: -29px; top: 4px;">
+    </div>
+
+    <b>• Matriculation (10th)</b><br>
+    &nbsp;&nbsp;📍 <i>Central Board of Secondary Education (CBSE)</i><br>
+    &nbsp;&nbsp;📅 <i>2020–2021</i><br>
+    &nbsp;&nbsp;📊 <i>54%</i>
+  </div>
+
+</div>
+
+</div>
 
