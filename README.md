@@ -59,21 +59,15 @@
 ---
 <h2>🎓 Education Qualification</h2>
 
-## 🎓 **Education**
-
 **• BCA (Bachelor of Computer Applications)**  
 &nbsp;&nbsp;📍 *Indira Gandhi National Open University, Delhi*  
 &nbsp;&nbsp;📅 *2023–2026*  
 &nbsp;&nbsp;🎯 *Pursuing*
 
----
-
 **• Higher Secondary (12th)**  
 &nbsp;&nbsp;📍 *Central Board of Secondary Education (CBSE)*  
 &nbsp;&nbsp;📅 *2022–2023*  
 &nbsp;&nbsp;📊 *78%*
-
----
 
 **• Secondary (10th)**  
 &nbsp;&nbsp;📍 *Central Board of Secondary Education (CBSE)*  
