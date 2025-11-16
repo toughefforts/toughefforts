@@ -73,3 +73,13 @@
 &nbsp;&nbsp;📍 <i>Central Board of Secondary Education (CBSE), Delhi</i><br>
 &nbsp;&nbsp;📅 <i>2020–2021</i><br>
 &nbsp;&nbsp;📊 <i>54%</i>
+
+---
+
+<h2>🖥️ Diploma</h2>
+
+<b>• ADCE (Advance Diploma in Computer Engineering)</b><br>
+&nbsp;&nbsp;📍 <i>Indian Institute of Computer Science (IICS), Pitampura Delhi</i><br>
+&nbsp;&nbsp;📅 <i>2023–2025</i><br>
+&nbsp;&nbsp;🎯 <i>Completed</i><br><br>
+
