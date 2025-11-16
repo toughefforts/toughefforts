@@ -59,4 +59,17 @@
 ---
 <h2>🎓 Education Qualification</h2>
 
-<h2>🎓 Education Qualification</h2> <div style="font-family: Verdana, sans-serif;"> <div style="margin-bottom: 25px;"> <b>• BCA (Bachelor of Computer Applications)</b><br> &nbsp;&nbsp;📍 <i>Indira Gandhi National Open University, Delhi</i><br> &nbsp;&nbsp;📅 <i>2023–2026</i><br> &nbsp;&nbsp;🎯 <i>Pursuing</i> </div> <div style="margin-bottom: 25px;"> <b>• Higher Secondary (12th)</b><br> &nbsp;&nbsp;📍 <i>Central Board of Secondary Education (CBSE)</i><br> &nbsp;&nbsp;📅 <i>2022–2023</i><br> &nbsp;&nbsp;📊 <i>78%</i> </div> <div style="margin-bottom: 10px;"> <b>• Matriculation (10th)</b><br> &nbsp;&nbsp;📍 <i>Central Board of Secondary Education (CBSE)</i><br> &nbsp;&nbsp;📅 <i>2020–2021</i><br> &nbsp;&nbsp;📊 <i>54%</i> </div> </div>
+<b>• BCA (Bachelor of Computer Applications)</b><br>
+&nbsp;&nbsp;📍 <i>Indira Gandhi National Open University, Delhi</i><br>
+&nbsp;&nbsp;📅 <i>2023–2026</i><br>
+&nbsp;&nbsp;🎯 <i>Pursuing</i><br><br>
+
+<b>• Higher Secondary (12th)</b><br>
+&nbsp;&nbsp;📍 <i>Central Board of Secondary Education (CBSE)</i><br>
+&nbsp;&nbsp;📅 <i>2022–2023</i><br>
+&nbsp;&nbsp;📊 <i>78%</i><br><br>
+
+<b>• Matriculation (10th)</b><br>
+&nbsp;&nbsp;📍 <i>Central Board of Secondary Education (CBSE)</i><br>
+&nbsp;&nbsp;📅 <i>2020–2021</i><br>
+&nbsp;&nbsp;📊 <i>54%</i>
