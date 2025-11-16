@@ -59,7 +59,22 @@
 ---
 <h2>🎓 Education Qualification</h2>
 
-- **BCA (Bachelor of Computer Applications)** — Indira Gandhi National Open University • City, Delhi — **2023–2026** • Pursuing 
-- **Higher Secondary (12th)** — Central Board of Secondary Education • CBSE — **2022–2023** • 78%  
-- **Secondary (10th)** — Central Board of Secondary Education • CBSE — **2020–2021** • 54%
+🎓 Bachelor of Computer Applications (BCA)
+
+🏫 University: Indira Gandhi National Open University
+📍 Location: Delhi
+📅 Duration: 2023–2026
+📘 Status: Pursuing
+
+🎓 Higher Secondary (12th)
+
+🏫 Board: Central Board of Secondary Education (CBSE)
+📅 Year: 2022–2023
+📊 Percentage: 78%
+
+🎓 Secondary (10th)
+
+🏫 Board: Central Board of Secondary Education (CBSE)
+📅 Year: 2020–2021
+📊 Percentage: 54%
 
