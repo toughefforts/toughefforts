@@ -92,7 +92,7 @@
 
 ---
 ### 🔥 Top Usage Languages
-
+<br>
 
 ![Most Used Languages](assets/languages.svg)
 
