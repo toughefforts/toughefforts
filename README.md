@@ -45,10 +45,7 @@
 
 #### 🧰 Dev Tools
 ![VS Code](https://img.shields.io/badge/-VSCode-007ACC?style=flat-square&logo=visual-studio-code)
-![Postman](https://img.shields.io/badge/-Postman-F26B3A?style=flat-square&logo=postman)
-![Figma](https://img.shields.io/badge/-Figma-black?style=flat-square&logo=figma)
-![Ant Design](https://img.shields.io/badge/-AntDesign-0170FE?style=flat-square&logo=ant-design)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=flat-square&logo=bootstrap)
+![Bootstrap]([https://img.shields.io/badge/-Bootstrap-7952B3?style=flat-square&logo=bootstrap](https://img.shields.io/badge/Bootstrap-black.svg?style=for-the-badge&logo=bootstrap&logoColor=white&labelColor=6f2cff))
 
 ---
 
