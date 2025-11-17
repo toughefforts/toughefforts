@@ -102,7 +102,6 @@
 
   <span style="margin: 0 80px;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40px" style="vertical-align: middle;" />
-    <span style="font-size: 14px; vertical-align: middle; margin-left: 8px;">JavaScript</span>
   </span>
 
   <span style="margin: 0 80px;">
@@ -131,6 +130,7 @@
   </span>
 
 </p>
+    <span style="font-size: 14px; vertical-align: middle; margin-left: 8px;">JavaScript</span>
 
 
 
