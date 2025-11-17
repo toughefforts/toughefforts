@@ -95,5 +95,4 @@
 <br>
 
 ![Most Used Languages](assets/languages.svg)
-![Most Used Languages](assets/languages2.svg)
 
