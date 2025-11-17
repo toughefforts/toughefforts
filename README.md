@@ -134,8 +134,7 @@
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50px"
             style="margin-right: 60px" />
         <!-- GitHub -->
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="50px"
-            style="margin-right: 60px" />
+        <img src="https://cdn.simpleicons.org/github/ffffff" width="50px" style="margin-right: 60px;">
         <!-- VS Code -->
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="50px"
             style="margin-right: 60px" />
