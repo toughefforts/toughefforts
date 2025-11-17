@@ -97,3 +97,49 @@
 ![Most Used Languages](assets/languages.svg)
 
 ---
+
+---
+
+<table width="100%">
+  <tr>
+    <!-- Left Side -->
+    <td align="left" width="50%">
+      <b>📌 Made with dedication & consistency</b><br>
+      <sub>Learning • Building • Improving</sub>
+    </td>
+
+    <!-- Right Side -->
+    <td align="right" width="50%">
+      <b>⭐ If you found this helpful, consider giving a star!</b><br>
+      <sub>Your support motivates me 🙂</sub>
+    </td>
+  </tr>
+</table>
+
+---
+
+### 🚀 Languages & Tools
+
+<p align="center">
+  
+  <!-- JavaScript -->
+  <img src="https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript" />
+
+  <!-- Python -->
+  <img src="https://img.shields.io/badge/-Python-black?style=flat-square&logo=python" />
+
+  <!-- Java -->
+  <img src="https://img.shields.io/badge/-Java-black?style=flat-square&logo=java" />
+
+  <!-- HTML -->
+  <img src="https://img.shields.io/badge/-HTML5-black?style=flat-square&logo=html5" />
+
+  <!-- CSS -->
+  <img src="https://img.shields.io/badge/-CSS3-black?style=flat-square&logo=css3" />
+
+  <!-- MySQL -->
+  <img src="https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql" />
+
+</p>
+
+---
