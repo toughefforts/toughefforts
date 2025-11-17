@@ -100,13 +100,14 @@
 
 <p align="center">
 
-  <img src="https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript" />
-  <img src="https://img.shields.io/badge/-Python-black?style=flat-square&logo=python" />
-  <img src="https://img.shields.io/badge/-Java-black?style=flat-square&logo=java" />
-  <img src="https://img.shields.io/badge/-HTML5-black?style=flat-square&logo=html5" />
-  <img src="https://img.shields.io/badge/-CSS3-black?style=flat-square&logo=css3" />
-  <img src="https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45px" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45px" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="45px" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="45px" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="45px" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="45px" />
 
 </p>
+
 
 ---
