@@ -110,22 +110,22 @@
     <span style="font-size: 14px; vertical-align: middle; margin-left: 8px;">Python</span>
   </span>
 
-  <span style="margin: 0 35px;">
+  <span style="margin: 0 80px;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40px" style="vertical-align: middle;" />
     <span style="font-size: 14px; vertical-align: middle; margin-left: 8px;">Java</span>
   </span>
 
-  <span style="margin: 0 35px;">
+  <span style="margin: 0 80px;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40px" style="vertical-align: middle;" />
     <span style="font-size: 14px; vertical-align: middle; margin-left: 8px;">HTML5</span>
   </span>
 
-  <span style="margin: 0 35px;">
+  <span style="margin: 0 80px;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40px" style="vertical-align: middle;" />
     <span style="font-size: 14px; vertical-align: middle; margin-left: 8px;">CSS3</span>
   </span>
 
-  <span style="margin: 0 35px;">
+  <span style="margin: 0 80px;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40px" style="vertical-align: middle;" />
     <span style="font-size: 14px; vertical-align: middle; margin-left: 8px;">MySQL</span>
   </span>
