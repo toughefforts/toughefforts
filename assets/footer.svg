@@ -1,1 +1,115 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="220" viewBox="0 0 1000 220"><defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0%" stop-color="#09111f"/><stop offset="100%" stop-color="#071a29"/></linearGradient><style>.title{font:700 22px 'Segoe UI';fill:white}.sub{font:400 14px 'Segoe UI';fill:#c7d4e7}.mini{font:400 12px 'Segoe UI';fill:#9fb2c8}.badge{font:500 12px 'Segoe UI';fill:#dceaff}.soft-line{stroke:#123456;stroke-width:1.3;opacity:.35}@keyframes float{0%{transform:translateY(0)}50%{transform:translateY(-4px)}100%{transform:translateY(0)}}@keyframes glow{0%{opacity:.6}50%{opacity:1}100%{opacity:.6}}.skillGroup{animation:float 3.2s ease-in-out infinite}.learnBox{animation:glow 3s ease-in-out infinite}</style></defs><rect width="1000" height="220" rx="15" fill="url(#bg)"/><g transform="translate(40,45)"><text class="title">🚀 Thanks for Visiting!</text><text class="sub" y="30">I'm <tspan font-weight="700">Sachin Sharma</tspan> — also known as <tspan fill="#8bd3ff">@toughefforts</tspan>.</text><text class="mini" y="65">💻 Passion: UI/UX • Animation • Web Experiences • Frontend Logic</text><text class="mini" y="88" fill="#a3c9ff">🎯 Focus Areas: Responsive UI • Modern SVG Animations • Clean Code</text><line x1="0" y1="108" x2="300" y2="108" class="soft-line"/></g><g transform="translate(690,35)"><rect width="250" height="150" rx="15" fill="#0d1a2d" opacity=".85"/><text class="mini" x="20" y="30" fill="#cde6ff">🔧 Tech Stacks I Use</text><g class="skillGroup" transform="translate(70,100)"><g transform="translate(5,50)"><rect width="70" height="26" rx="6" fill="#132840"/><text class="badge" x="35" y="18" text-anchor="middle">PHP</text></g><g transform="translate(90,50)"><rect width="70" height="26" rx="6" fill="#132840"/><text class="badge" x="35" y="18" text-anchor="middle">CSS</text></g><g transform="translate(175,50)"><rect width="70" height="26" rx="6" fill="#132840"/><text class="badge" x="35" y="18" text-anchor="middle">JavaScript</text></g><g transform="translate(5,85)"><rect width="70" height="26" rx="6" fill="#132840"/><text class="badge" x="35" y="18" text-anchor="middle">HTML</text></g><g transform="translate(90,85)"><rect width="70" height="26" rx="6" fill="#132840"/><text class="badge" x="35" y="18" text-anchor="middle">Python</text></g><g transform="translate(175,85)"><rect width="70" height="26" rx="6" fill="#132840"/><text class="badge" x="38" y="18" text-anchor="middle">C / C++</text></g></g><g class="learnBox" transform="translate(5,120)"><rect width="240" height="26" rx="8" fill="#132a40"/><text class="mini" x="112" y="18" text-anchor="middle" fill="#cfe8ff">📚 Currently Learning: AI & Machine Learning</text></g></g><g transform="translate(40,200)"><text class="mini">Made by <tspan font-weight="700">Sachin Sharma</tspan></text></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="220" viewBox="0 0 1000 220">
+    <defs>
+        <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+            <stop offset="0%" stop-color="#09111f" />
+            <stop offset="100%" stop-color="#071a29" />
+        </linearGradient>
+        <style>
+            .title {
+                font: 700 22px 'Segoe UI';
+                fill: white
+            }
+
+            .sub {
+                font: 400 14px 'Segoe UI';
+                fill: #c7d4e7
+            }
+
+            .mini {
+                font: 400 12px 'Segoe UI';
+                fill: #9fb2c8
+            }
+
+            .badge {
+                font: 500 12px 'Segoe UI';
+                fill: #dceaff
+            }
+
+            .soft-line {
+                stroke: #123456;
+                stroke-width: 1.3;
+                opacity: .35
+            }
+
+            @keyframes float {
+                0% {
+                    transform: translateY(0)
+                }
+
+                50% {
+                    transform: translateY(-4px)
+                }
+
+                100% {
+                    transform: translateY(0)
+                }
+            }
+
+            @keyframes glow {
+                0% {
+                    opacity: .6
+                }
+
+                50% {
+                    opacity: 1
+                }
+
+                100% {
+                    opacity: .6
+                }
+            }
+
+            .skillGroup {
+                animation: float 3.2s ease-in-out infinite
+            }
+
+            .learnBox {
+                animation: glow 3s ease-in-out infinite
+            }
+        </style>
+    </defs>
+    <rect width="1000" height="220" rx="15" fill="url(#bg)" />
+    <g transform="translate(40,45)"><text class="title">🚀 Thanks for Visiting!</text><text class="sub" y="30">I'm
+            <tspan font-weight="700">Sachin Sharma</tspan> — also known as <tspan fill="#8bd3ff">@toughefforts</tspan>
+            .</text><text class="mini" y="65">💻 Passion: UI/UX • Animation • Web Experiences • Frontend
+            Logic</text><text class="mini" y="88" fill="#a3c9ff">🎯 Focus Areas: Responsive UI • Modern SVG Animations •
+            Clean Code</text>
+        <line x1="0" y1="108" x2="300" y2="108" class="soft-line" />
+    </g>
+    <g transform="translate(690,35)">
+        <rect width="250" height="150" rx="15" fill="#0d1a2d" opacity=".85" /><text class="mini" x="20" y="30"
+            fill="#cde6ff">🔧 Tech Stacks I Use</text>
+        <g class="skillGroup" transform="translate(70,100)">
+            <g transform="translate(5,50)">
+                <rect width="70" height="26" rx="6" fill="#132840" /><text class="badge" x="35" y="18"
+                    text-anchor="middle">PHP</text>
+            </g>
+            <g transform="translate(90,50)">
+                <rect width="70" height="26" rx="6" fill="#132840" /><text class="badge" x="35" y="18"
+                    text-anchor="middle">CSS</text>
+            </g>
+            <g transform="translate(175,50)">
+                <rect width="70" height="26" rx="6" fill="#132840" /><text class="badge" x="35" y="18"
+                    text-anchor="middle">JavaScript</text>
+            </g>
+            <g transform="translate(5,85)">
+                <rect width="70" height="26" rx="6" fill="#132840" /><text class="badge" x="35" y="18"
+                    text-anchor="middle">HTML</text>
+            </g>
+            <g transform="translate(90,85)">
+                <rect width="70" height="26" rx="6" fill="#132840" /><text class="badge" x="35" y="18"
+                    text-anchor="middle">Python</text>
+            </g>
+            <g transform="translate(175,85)">
+                <rect width="70" height="26" rx="6" fill="#132840" /><text class="badge" x="38" y="18"
+                    text-anchor="middle">C / C++</text>
+            </g>
+        </g>
+        <g class="learnBox" transform="translate(5,120)">
+            <rect width="240" height="26" rx="8" fill="#132a40" /><text class="mini" x="112" y="18" text-anchor="middle"
+                fill="#cfe8ff">📚 Currently Learning: AI & Machine Learning</text>
+        </g>
+    </g>
+    <g transform="translate(40,200)"><text class="mini">Made by <tspan font-weight="700">Sachin Sharma</tspan></text>
+    </g>
+</svg>
