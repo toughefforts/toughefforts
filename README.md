@@ -98,5 +98,40 @@
 
 ---
 
-<img src="https://raw.githubusercontent.com/toughefforts/toughefforts/main/assets/footer.svg">
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="140" viewBox="0 0 1000 140">
+  <rect width="1000" height="140" fill="#0d1117"/>
+
+  <text x="50" y="50" style="font:700 22px 'Segoe UI';fill:white;">
+    Thanks for Visiting
+  </text>
+
+  <text x="50" y="80" style="font:400 14px 'Segoe UI';fill:#c7d4e7;">
+    I'm Sachin Sharma — also known as @toughefforts.
+  </text>
+
+  <text x="50" y="105" style="font:400 12px 'Segoe UI';fill:#9fb2c8;">
+    Frontend • UI/UX • Web Experiences • Clean Code
+  </text>
+
+  <!-- RIGHT SIDE BOX -->
+  <rect x="700" y="25" width="250" height="90" rx="12" fill="#141c2b" opacity="0.9"/>
+
+  <text x="720" y="50" style="font:400 12px 'Segoe UI';fill:#cde6ff;">
+    Tech I Use:
+  </text>
+
+  <text x="720" y="75" style="font:400 12px 'Segoe UI';fill:#9fb2c8;">
+    HTML • CSS • JavaScript • PHP • Python • C/C++
+  </text>
+
+  <text x="720" y="100" style="font:400 12px 'Segoe UI';fill:#9fb2c8;">
+    Learning: AI & Machine Learning
+  </text>
+
+  <!-- Bottom -->
+  <text x="50" y="130" style="font:400 12px 'Segoe UI';fill:#9fb2c8;">
+    Made by Sachin Sharma
+  </text>
+</svg>
+
 
