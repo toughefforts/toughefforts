@@ -98,23 +98,23 @@
 
 ---
 
-<p align="center" style="white-space: nowrap;">
+<p align="left" style="white-space: nowrap;">
 
-  <span style="margin: 0 80px;">
+  <span style="margin: 0 200px;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40px" style="vertical-align: middle;" />
   </span>
 
-  <span style="margin: 0 80px;">
+  <span style="margin: 0 200px;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40px" style="vertical-align: middle;" />
     <span style="font-size: 14px; vertical-align: middle; margin-left: 8px;">Python</span>
   </span>
 
-  <span style="margin: 0 80px;">
+  <span style="margin: 0 200px;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40px" style="vertical-align: middle;" />
     <span style="font-size: 14px; vertical-align: middle; margin-left: 8px;">Java</span>
   </span>
 
-  <span style="margin: 0 80px;">
+  <span style="margin: 0 200px;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40px" style="vertical-align: middle;" />
     <span style="font-size: 14px; vertical-align: middle; margin-left: 8px;">HTML5</span>
   </span>
@@ -124,7 +124,7 @@
     <span style="font-size: 14px; vertical-align: middle; margin-left: 8px;">CSS3</span>
   </span>
 
-  <span style="margin: 0 80px;">
+  <span style="margin: 0 200px;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40px" style="vertical-align: middle;" />
     <span style="font-size: 14px; vertical-align: middle; margin-left: 8px;">MySQL</span>
   </span>
