@@ -96,3 +96,6 @@
 
 ![Most Used Languages](assets/languages.svg)
 
+---
+
+![Most Used Languages](assets/footer.svg)
