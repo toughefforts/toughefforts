@@ -100,11 +100,11 @@
 
 <p align="left" style="white-space: nowrap;">
 
-  <span style="margin-right:200px;">
+  <span style="margin-left:200px;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40px" style="vertical-align: middle;" />
   </span>
 
-  <span style="margin: 0 200px;">
+  <span style="margin-left:200px;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40px" style="vertical-align: middle;" />
     <span style="font-size: 14px; vertical-align: middle; margin-left: 8px;">Python</span>
   </span>
