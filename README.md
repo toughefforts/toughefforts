@@ -98,7 +98,7 @@
 
 ---
 
-<p align="center" style="white-space: nowrap;gap:50px;">
+<p align="left" style="white-space: nowrap;">
 
   <span style="display: inline-flex; align-items: center; margin-right: 100px;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45px">
