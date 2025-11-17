@@ -100,12 +100,12 @@
 
 <p align="center" style="white-space: nowrap;">
 
-  <span style="margin: 0 35px;">
+  <span style="margin: 0 80px;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40px" style="vertical-align: middle;" />
     <span style="font-size: 14px; vertical-align: middle; margin-left: 8px;">JavaScript</span>
   </span>
 
-  <span style="margin: 0 35px;">
+  <span style="margin: 0 80px;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40px" style="vertical-align: middle;" />
     <span style="font-size: 14px; vertical-align: middle; margin-left: 8px;">Python</span>
   </span>
