@@ -100,14 +100,38 @@
 
 <p align="center">
 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45px" style="margin: 0 35px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45px" style="margin: 0 35px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="45px" style="margin: 0 35px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="45px" style="margin: 0 35px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="45px" style="margin: 0 35px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="45px" style="margin: 0 35px;" />
+  <div style="display: inline-block; text-align: center; margin: 0 45px;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="55px" />
+    <div><sub>JavaScript</sub></div>
+  </div>
+
+  <div style="display: inline-block; text-align: center; margin: 0 45px;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="55px" />
+    <div><sub>Python</sub></div>
+  </div>
+
+  <div style="display: inline-block; text-align: center; margin: 0 45px;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="55px" />
+    <div><sub>Java</sub></div>
+  </div>
+
+  <div style="display: inline-block; text-align: center; margin: 0 45px;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="55px" />
+    <div><sub>HTML5</sub></div>
+  </div>
+
+  <div style="display: inline-block; text-align: center; margin: 0 45px;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="55px" />
+    <div><sub>CSS3</sub></div>
+  </div>
+
+  <div style="display: inline-block; text-align: center; margin: 0 45px;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="55px" />
+    <div><sub>MySQL</sub></div>
+  </div>
 
 </p>
+
 
 
 ---
