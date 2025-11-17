@@ -98,40 +98,79 @@
 
 ---
 
-<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="140" viewBox="0 0 1000 140">
-  <rect width="1000" height="140" fill="#0d1117"/>
-
-  <text x="50" y="50" style="font:700 22px 'Segoe UI';fill:white;">
-    Thanks for Visiting
-  </text>
-
-  <text x="50" y="80" style="font:400 14px 'Segoe UI';fill:#c7d4e7;">
-    I'm Sachin Sharma — also known as @toughefforts.
-  </text>
-
-  <text x="50" y="105" style="font:400 12px 'Segoe UI';fill:#9fb2c8;">
-    Frontend • UI/UX • Web Experiences • Clean Code
-  </text>
-
-  <!-- RIGHT SIDE BOX -->
-  <rect x="700" y="25" width="250" height="90" rx="12" fill="#141c2b" opacity="0.9"/>
-
-  <text x="720" y="50" style="font:400 12px 'Segoe UI';fill:#cde6ff;">
-    Tech I Use:
-  </text>
-
-  <text x="720" y="75" style="font:400 12px 'Segoe UI';fill:#9fb2c8;">
-    HTML • CSS • JavaScript • PHP • Python • C/C++
-  </text>
-
-  <text x="720" y="100" style="font:400 12px 'Segoe UI';fill:#9fb2c8;">
-    Learning: AI & Machine Learning
-  </text>
-
-  <!-- Bottom -->
-  <text x="50" y="130" style="font:400 12px 'Segoe UI';fill:#9fb2c8;">
-    Made by Sachin Sharma
-  </text>
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="220" viewBox="0 0 1000 220">
+    <defs>
+        <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+            <stop offset="0%" stop-color="#09111f"/>
+            <stop offset="100%" stop-color="#071a29"/>
+        </linearGradient>
+    </defs>
+    <rect width="1000" height="220" rx="15" fill="url(#bg)"/>
+    <g transform="translate(40,45)">
+        <text style="font:700 22px 'Segoe UI';fill:white;">&#128640; Thanks for Visiting!</text>
+        <text y="30" style="font:400 14px 'Segoe UI';fill:#c7d4e7;">
+            I'm <tspan font-weight="700">Sachin Sharma</tspan> — also known as
+            <tspan fill="#8bd3ff">@toughefforts</tspan>.
+        </text>
+        <text y="65" style="font:400 12px 'Segoe UI';fill:#9fb2c8;">
+            &#128187; Passion: UI/UX • Animation • Web Experiences • Frontend Logic
+        </text>
+        <text y="88" style="font:400 12px 'Segoe UI';fill:#a3c9ff;">
+            &#127919; Focus Areas: Responsive UI • Modern SVG Animations • Clean Code
+        </text>
+        <line x1="0" y1="108" x2="300" y2="108"
+              style="stroke:#123456;stroke-width:1.3;opacity:.35;"/>
+    </g>
+    <g transform="translate(690,35)">
+        <rect width="250" height="150" rx="15" fill="#0d1a2d" opacity=".85"/>
+        <text x="20" y="30" style="font:400 12px 'Segoe UI';fill:#cde6ff;">
+            &#128295; Tech Stacks I Use
+        </text>
+        <g transform="translate(70,100)">
+            <g transform="translate(5,50)">
+                <rect width="70" height="26" rx="6" fill="#132840"/>
+                <text x="35" y="18" text-anchor="middle"
+                      style="font:500 12px 'Segoe UI';fill:#dceaff;">PHP</text>
+            </g>
+            <g transform="translate(90,50)">
+                <rect width="70" height="26" rx="6" fill="#132840"/>
+                <text x="35" y="18" text-anchor="middle"
+                    style="font:500 12px 'Segoe UI';fill:#dceaff;">CSS</text>
+            </g>
+            <g transform="translate(175,50)">
+                <rect width="70" height="26" rx="6" fill="#132840"/>
+                <text x="35" y="18" text-anchor="middle"
+                      style="font:500 12px 'Segoe UI';fill:#dceaff;">JavaScript</text>
+            </g>
+            <g transform="translate(5,85)">
+                <rect width="70" height="26" rx="6" fill="#132840"/>
+                <text x="35" y="18" text-anchor="middle"
+                      style="font:500 12px 'Segoe UI';fill:#dceaff;">HTML</text>
+            </g>
+            <g transform="translate(90,85)">
+                <rect width="70" height="26" rx="6" fill="#132840"/>
+                <text x="35" y="18" text-anchor="middle"
+                      style="font:500 12px 'Segoe UI';fill:#dceaff;">Python</text>
+            </g>
+            <g transform="translate(175,85)">
+                <rect width="70" height="26" rx="6" fill="#132840"/>
+                <text x="38" y="18" text-anchor="middle"
+                      style="font:500 12px 'Segoe UI';fill:#dceaff;">C / C++</text>
+            </g>
+        </g>
+        <g transform="translate(5,120)">
+            <rect width="240" height="26" rx="8" fill="#132a40"/>
+            <text x="112" y="18" text-anchor="middle"
+                  style="font:400 12px 'Segoe UI';fill:#cfe8ff;">
+                &#128218; Currently Learning: AI & Machine Learning
+            </text>
+        </g>
+    </g>
+    <g transform="translate(40,200)">
+        <text style="font:400 12px 'Segoe UI';fill:#9fb2c8;">
+            Made by <tspan font-weight="700">Sachin Sharma</tspan>
+        </text>
+    </g>
 </svg>
 
 
