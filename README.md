@@ -98,42 +98,39 @@
 
 ---
 
-<p align="left" style="white-space: nowrap;">
+<p align="center" style="white-space: nowrap;">
 
-  <span style="margin-left:200px;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40px" style="vertical-align: middle;" />
+  <span style="display: inline-flex; align-items: center; margin-right: 45px;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40px">
+    <span style="margin-left: 8px;">JavaScript</span>
   </span>
 
-  <span style="margin-left:200px;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40px" style="vertical-align: middle;" />
-    <span style="font-size: 14px; vertical-align: middle; margin-left: 8px;">Python</span>
+  <span style="display: inline-flex; align-items: center; margin-right: 45px;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40px">
+    <span style="margin-left: 8px;">Python</span>
   </span>
 
-  <span style="margin: 0 200px;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40px" style="vertical-align: middle;" />
-    <span style="font-size: 14px; vertical-align: middle; margin-left: 8px;">Java</span>
+  <span style="display: inline-flex; align-items: center; margin-right: 45px;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40px">
+    <span style="margin-left: 8px;">Java</span>
   </span>
 
-  <span style="margin: 0 200px;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40px" style="vertical-align: middle;" />
-    <span style="font-size: 14px; vertical-align: middle; margin-left: 8px;">HTML5</span>
+  <span style="display: inline-flex; align-items: center; margin-right: 45px;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40px">
+    <span style="margin-left: 8px;">HTML5</span>
   </span>
 
-  <span style="margin: 0 80px;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40px" style="vertical-align: middle;" />
-    <span style="font-size: 14px; vertical-align: middle; margin-left: 8px;">CSS3</span>
+  <span style="display: inline-flex; align-items: center; margin-right: 45px;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40px">
+    <span style="margin-left: 8px;">CSS3</span>
   </span>
 
-  <span style="margin: 0 200px;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40px" style="vertical-align: middle;" />
-    <span style="font-size: 14px; vertical-align: middle; margin-left: 8px;">MySQL</span>
+  <span style="display: inline-flex; align-items: center; margin-right: 45px;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40px">
+    <span style="margin-left: 8px;">MySQL</span>
   </span>
 
 </p>
-    <span style="font-size: 14px; vertical-align: middle; margin-left: 8px;">JavaScript</span>
-
-
-
 
 
 ---
