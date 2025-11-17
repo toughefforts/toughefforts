@@ -98,4 +98,5 @@
 
 ---
 
-![Most Used Languages](assets/footer.svg)
+<img src="https://raw.githubusercontent.com/toughefforts/toughefforts/main/assets/footer.svg">
+
