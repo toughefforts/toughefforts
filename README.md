@@ -100,7 +100,7 @@
 
 <p align="left" style="white-space: nowrap;">
 
-  <span style="margin: 0 200px;">
+  <span style="margin-right:200px;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40px" style="vertical-align: middle;" />
   </span>
 
