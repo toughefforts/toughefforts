@@ -98,24 +98,6 @@
 
 ---
 
-<table width="100%">
-  <tr>
-    <td align="left" width="50%">
-      <h3>📌 Made with Dedication & Consistency</h3>
-      <sub>Always Learning • Building • Improving</sub>
-    </td>
-
-    <td align="right" width="50%">
-      <h3>⭐ Like This Repository?</h3>
-      <sub>Consider giving a star 🙂</sub>
-    </td>
-  </tr>
-</table>
-
----
-
-### 🚀 Languages & Tools
-
 <p align="center">
 
   <img src="https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript" />
