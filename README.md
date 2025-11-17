@@ -100,15 +100,32 @@
 
 <p align="left" style="white-space: nowrap;">
 
-  <span style="display: inline-flex; align-items: center; margin-right: 100px;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45px">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45px">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="45px">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="45px">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="45px">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="45px">
+  <span style="display: inline-flex; align-items: center; margin-right: 80px;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50px">
   </span>
+
+  <span style="display: inline-flex; align-items: center; margin-right: 80px;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50px">
+  </span>
+
+  <span style="display: inline-flex; align-items: center; margin-right: 80px;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="50px">
+  </span>
+
+  <span style="display: inline-flex; align-items: center; margin-right: 80px;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50px">
+  </span>
+
+  <span style="display: inline-flex; align-items: center; margin-right: 80px;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50px">
+  </span>
+
+  <span style="display: inline-flex; align-items: center; margin-right: 80px;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50px">
+  </span>
+
 </p>
+
 
 
 
