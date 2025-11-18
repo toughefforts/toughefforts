@@ -1,8 +1,5 @@
-<!-- Light Mode: Text Black -->
-<img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=700&size=40&duration=7000&pause=800&color=000000&center=true&vCenter=true&width=800&lines=✨+HEY+THERE;🧩+I'M+SACHIN+SHARMA;💻+FULL+STACK+WEB+DEVELOPER#gh-light-mode-only" />
+<img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=700&size=40&duration=7000&pause=800&color=000000&center=true&vCenter=true&width=800&lines=✨+HEY+THERE;🧩+I'M+SACHIN+SHARMA;💻+FULL+STACK+WEB+DEVELOPER#gh-light-mode-only" /><img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=700&size=40&duration=7000&pause=800&color=FFFFFF&center=true&vCenter=true&width=800&lines=✨+HEY+THERE;🧩+I'M+SACHIN+SHARMA;💻+FULL+STACK+WEB+DEVELOPER#gh-dark-mode-only" />
 
-<!-- Dark Mode: Text White -->
-<img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=700&size=40&duration=7000&pause=800&color=FFFFFF&center=true&vCenter=true&width=800&lines=✨+HEY+THERE;🧩+I'M+SACHIN+SHARMA;💻+FULL+STACK+WEB+DEVELOPER#gh-dark-mode-only" />
 
 
 
