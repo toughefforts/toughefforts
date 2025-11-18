@@ -38,10 +38,10 @@
 
 #### 💻 Languages
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=for-the-badge&logo=javascript)
-![PHP](https://img.shields.io/badge/-PHP-black?style=flat-square&logo=php)
-![C](https://img.shields.io/badge/-black?style=flat-square&logo=c)
-![C++](https://img.shields.io/badge/-CPP-black?style=flat-square&logo=C%2B%2B&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python)
+![PHP](https://img.shields.io/badge/-PHP-black?style=for-the-badge&logo=php)
+![C](https://img.shields.io/badge/-black?style=for-the-badge&logo=c)
+![C++](https://img.shields.io/badge/-CPP-black?style=for-the-badge&logo=C%2B%2B&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-black?style=for-the-badge&logo=python)
 
 #### 🛠️ Database Frameworks & Platforms
 ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=for-the-badge&logo=mongodb&logoColor=green)
