@@ -1,5 +1,13 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Montserrat&weight=700&size=40&duration=7000&pause=800&color=FFFFFF&center=true&vCenter=true&width=800&lines=✨+HEY+THERE;🧩+I'M+SACHIN+SHARMA;💻+FULL+STACK+WEB+DEVELOPER)](https://git.io/typing-svg)
-
+<!-- Auto Light/Dark Theme Typing SVG -->
+<p>
+  <!-- Light Mode (White Background) -->
+  <picture>
+    <source media="(prefers-color-scheme: light)" 
+      srcset="https://readme-typing-svg.demolab.com?font=Montserrat&weight=700&size=40&duration=7000&pause=800&color=000000&center=true&vCenter=true&width=800&lines=✨+HEY+THERE;🧩+I'M+SACHIN+SHARMA;💻+FULL+STACK+WEB+DEVELOPER">
+    <!-- Dark Mode (Black Background) -->
+    <img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=700&size=40&duration=7000&pause=800&color=FFFFFF&center=true&vCenter=true&width=800&lines=✨+HEY+THERE;🧩+I'M+SACHIN+SHARMA;💻+FULL+STACK+WEB+DEVELOPER"/>
+  </picture>
+</p>
 
 
 
