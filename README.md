@@ -1,21 +1,6 @@
-<!-- place both images -->
-<img class="theme-img light-only" src="https://readme-typing-svg.demolab.com?color=000000&...&lines=✨+HEY+THERE;..." alt="light" />
-<img class="theme-img dark-only"  src="https://readme-typing-svg.demolab.com?color=FFFFFF&...&lines=✨+HEY+THERE;..." alt="dark" />
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Montserrat&weight=700&size=40&duration=7000&pause=800&color=000000&center=true&vCenter=true&width=800&lines=✨+HEY+THERE;🧩+I'M+SACHIN+SHARMA;💻+FULL+STACK+WEB+DEVELOPER#gh-light-mode-only)](https://git.io/typing-svg)
 
-<style>
-  /* default: show light, hide dark */
-  .dark-only { display: none; }
-  .light-only { display: inline-block; }
-
-  /* when user prefers dark theme, reverse */
-  @media (prefers-color-scheme: dark) {
-    .dark-only { display: inline-block; }
-    .light-only { display: none; }
-  }
-
-  /* optional: make images responsive */
-  .theme-img { max-width: 100%; height: auto; display: block; }
-</style>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Montserrat&weight=700&size=40&duration=7000&pause=800&color=FFFFFF&center=true&vCenter=true&width=800&lines=✨+HEY+THERE;🧩+I'M+SACHIN+SHARMA;💻+FULL+STACK+WEB+DEVELOPER#gh-dark-mode-only)](https://git.io/typing-svg)
 
 
 
