@@ -139,3 +139,7 @@
 </p>
 
 ---
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Montserrat&weight=700&size=40&duration=7000&pause=800&color=FFFFFF&center=true&vCenter=true&width=800&lines=🙏+THANKS+FOR+VISITING)](https://git.io/typing-svg)
+
+---
