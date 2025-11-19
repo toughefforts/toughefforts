@@ -112,33 +112,27 @@
         &emsp;&emsp;&emsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50px"
             style="margin-right: 60px" />
         <!-- HTML5 -->
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50px"
+        &emsp;&emsp;&emsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50px"
             style="margin-right: 60px" />
         <!-- CSS3 -->
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50px"
+        &emsp;&emsp;&emsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50px"
             style="margin-right: 60px" />
         <!-- MySQL -->
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50px"
+        &emsp;&emsp;&emsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50px"
             style="margin-right: 60px" />
         <!-- MongoDB -->
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="50px"
+        &emsp;&emsp;&emsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="50px"
             style="margin-right: 60px" />
         <!-- Bootstrap -->
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="50px"
-            style="margin-right: 60px" />
-        <!-- Windows -->
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" width="50px"
-            style="margin-right: 60px" />
-        <!-- Linux -->
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="50px"
+        &emsp;&emsp;&emsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="50px"
             style="margin-right: 60px" />
         <!-- Git -->
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50px"
+        &emsp;&emsp;&emsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50px"
             style="margin-right: 60px" />
         <!-- GitHub -->
-        <img src="https://cdn.simpleicons.org/github/ffffff" width="50px" style="margin-right: 60px;">
+        &emsp;&emsp;&emsp;<img src="https://cdn.simpleicons.org/github/ffffff" width="50px" style="margin-right: 60px;">
         <!-- VS Code -->
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="50px"
+        &emsp;&emsp;&emsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="50px"
             style="margin-right: 60px" />
     </span>
 </p>
