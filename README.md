@@ -106,7 +106,7 @@
 <p align="left" style="white-space: nowrap">
     <span>
         <!-- JavaScript -->
-        &emsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50px"
+        &nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50px"
             style="margin-right: 60px" />
         <!-- Python -->
         &emsp;&emsp;&emsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50px"
