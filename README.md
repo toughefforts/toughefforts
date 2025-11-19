@@ -126,8 +126,15 @@
         <!-- Bootstrap -->
         &emsp;&emsp;&emsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="50px"
             style="margin-right: 60px" />
-        <!-- GitHub -->
-        &emsp;&emsp;&emsp;<img src="https://cdn.simpleicons.org/github/ffffff" width="50px" style="margin-right: 60px;">
+       <picture>
+        <!-- Dark Mode (white icon) -->
+          <source media="(prefers-color-scheme: dark)" 
+          srcset="https://cdn.simpleicons.org/github/ffffff">
+       <!-- Light Mode (black icon) -->
+          <img src="https://cdn.simpleicons.org/github/000000" 
+           width="50px" 
+           style="margin-right: 60px;">
+      </picture>
         <!-- VS Code -->
         &emsp;&emsp;&emsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="50px"
             style="margin-right: 60px" />
