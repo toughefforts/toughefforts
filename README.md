@@ -1,7 +1,7 @@
 <picture>
   <source media="(prefers-color-scheme: dark)"
           srcset="https://readme-typing-svg.demolab.com?font=Montserrat&weight=700&size=40&duration=7000&pause=800&color=FFFFFF&center=true&vCenter=true&width=800&lines=%E2%9C%A8+HEY+THERE;%F0%9F%A7%A9+I'M+SACHIN+SHARMA;%F0%9F%92%BB+FULL+STACK+%26+BACKEND+DEVELOPER">
-  <img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=700&size=40&duration=7000&pause=800&color=000000&center=true&vCenter=true&width=800&lines=%E2%9C%A8+HEY+THERE;%F0%9F%A7%A9+I'M+SACHIN+SHARMA;%F0%9F%92%BB+FULL+STACK+%26+BACKEND+DEVELOPER" alt="Hey there, I'm Sachin Sharma, Full Stack and Backend Developer">
+  <img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=700&size=38&duration=7000&pause=800&color=000000&center=true&vCenter=true&width=800&lines=%E2%9C%A8+HEY+THERE;%F0%9F%A7%A9+I'M+SACHIN+SHARMA;%F0%9F%92%BB+FULL+STACK+%26+BACKEND+DEVELOPER" alt="Hey there, I'm Sachin Sharma, Full Stack and Backend Developer">
 </picture>
 
 
