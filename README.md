@@ -1,153 +1,179 @@
-<picture>
-  <source media="(prefers-color-scheme: dark)" 
-          srcset="https://readme-typing-svg.demolab.com?font=Montserrat&weight=700&size=40&duration=7000&pause=800&color=FFFFFF&center=true&vCenter=true&width=800&lines=%E2%9C%A8+HEY+THERE;%F0%9F%A7%A9+I'M+SACHIN+SHARMA;%F0%9F%92%BB+FULL+STACK+WEB+DEVELOPER">
-  <img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=700&size=40&duration=7000&pause=800&color=000000&center=true&vCenter=true&width=800&lines=%E2%9C%A8+HEY+THERE;%F0%9F%A7%A9+I'M+SACHIN+SHARMA;%F0%9F%92%BB+FULL+STACK+WEB+DEVELOPER" />
-</picture>
+<div align="center">
 
+# SACHIN SHARMA
 
+### FULL STACK & BACKEND DEVELOPER
 
+**Building responsive web applications and database-driven solutions.**
 
+[![GitHub](https://img.shields.io/badge/GitHub-toughefforts-111827?style=for-the-badge&logo=github&logoColor=white)](https://github.com/toughefforts)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/toughefforts)
+[![Email](https://img.shields.io/badge/Email-Contact-00D6A0?style=for-the-badge&logo=gmail&logoColor=white)](mailto:officialsachin9910@gmail.com)
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
-</picture>
+**New Delhi, India**
 
----
-
-### 👨‍💻 About Me
-
-- 🔭 Currently Building: Modern Full-Stack Applications (Frontend ⚡ + Backend 💾 + Databases 🗄️)
-- 🤖 Goal: Become an AI & Machine Learning Engineer
-- 🚀 Focus Area: JavaScript, Python, PHP, Data Structures & Algorithmic Thinking
-- 💻 Passion: Writing clean, scalable & production-ready code
-- 📚 Habit: Reading documentation like it’s a power-up for my brain 📖⚡
-- ☁️ Next Step: Explore Deep Learning, Neural Networks & Cloud AI services
-- 🤓 Fun Fact: Debugging feels like detective work—just with semicolons 😆
-
+</div>
 
 ---
 
-### 🌐 Connect With Me
+## About Me
 
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/toughefforts)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/toughefforts)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/toughefforts)
-[![Twitter](https://img.shields.io/badge/twitter-x?style=for-the-badge&logo=x&logoColor=white&color=blue)](https://twitter.com/toughefforts)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:officialsachin9910@gmail.com)
+I'm an entry-level **Full Stack & Backend Developer** with hands-on project experience building database-driven web applications using **PHP, MySQL, HTML, CSS, and JavaScript**.
 
----
+I'm familiar with frontend development, server-side programming, CRUD operations, authentication systems, database management, and application integration. I enjoy turning practical requirements into responsive web solutions and continuously improving my development skills.
 
-### 🛠️ Tech Stack
-
-#### 💻 Languages
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
-![PHP](https://img.shields.io/badge/-PHP-black?style=flat-square&logo=php)
-![C](https://img.shields.io/badge/-black?style=flat-square&logo=c)
-![C++](https://img.shields.io/badge/-CPP-black?style=flat-square&logo=C%2B%2B&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python)
-
-#### 🛠️ Database Frameworks & Platforms
-![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=for-the-badge&logo=mongodb&logoColor=green)
-![MySQL](https://img.shields.io/badge/MySQL-black?style=for-the-badge&logo=mysql&logoColor=white)
-![Netlify](https://img.shields.io/badge/-netlify-black?style=for-the-badge&logo=netlify&logoColor=green)
-
-#### 🎨 Frontend Framework/Libraries
-![Bootstrap](https://img.shields.io/badge/Bootstrap-black?style=for-the-badge&logo=bootstrap&logoColor=#563d7c)
-
----
-#### 🤖 Ai Tools
-![ChatGPT](https://img.shields.io/badge/chatGPT-black?style=for-the-badge&logo=openai&logoColor=74aa9c)
-![Github Copilot](https://img.shields.io/badge/Github%20Copilot-black?logo=github-copilot&logoColor=white&labelFontSize=35px&logoWidth=80&style=for-the-badge)
-
----
-<h2>🎓 Education Qualification</h2>
-
-<b>• BCA (Bachelor of Computer Applications)</b><br>
-&nbsp;&nbsp;📍 <i>Indira Gandhi National Open University (IGNOU), Delhi</i><br>
-&nbsp;&nbsp;📅 <i>2023–Present</i><br>
-&nbsp;&nbsp;🎯 <i>Pursuing</i><br><br>
-
-<b>• Higher Secondary (12th)</b><br>
-&nbsp;&nbsp;📍 <i>Central Board of Secondary Education (CBSE), Delhi</i><br>
-&nbsp;&nbsp;📅 <i>2022–2023</i><br>
-&nbsp;&nbsp;📊 <i>78%</i><br><br>
-
-<b>• Matriculation (10th)</b><br>
-&nbsp;&nbsp;📍 <i>Central Board of Secondary Education (CBSE), Delhi</i><br>
-&nbsp;&nbsp;📅 <i>2020–2021</i><br>
-&nbsp;&nbsp;📊 <i>54%</i><br><br>
-
-
-<h2>🖥️ Diploma</h2>
-
-<b>• ADCE (Advance Diploma in Computer Engineering)</b><br>
-&nbsp;&nbsp;📍 <i>Indian Institute of Computer Science (IICS), Pitampura Delhi</i><br>
-&nbsp;&nbsp;📅 <i>2023–2025</i><br>
-&nbsp;&nbsp;🎯 <i>Completed</i><br><br>
-
-
-## 💼 Work Experience
-
-<b>• Online Digital Work</b><br>
-&nbsp;&nbsp;📍 <i>Krishna Cyber Cafe, Delhi</i><br>
-&nbsp;&nbsp;📅 <i>2023–Present</i><br>
-&nbsp;&nbsp;💻 <i>Worked on Aadhar Card, Pan Card, Ticket Booking, Form-Filling, etc.</i><br>
-
----
-### 🔥 Top Usage Languages
-<br>
-
-![Most Used Languages](assets/languages.svg)
+My current learning interests include backend APIs, Django, advanced JavaScript, Next.js, and AI integration. My longer-term career goal is to grow towards **Artificial Intelligence and Machine Learning Engineering**.
 
 ---
 
-<p align="left" style="white-space: nowrap">
-    <span>
-        <!-- JavaScript -->
-        &nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50px"
-            style="margin-right: 60px" />
-        <!-- Python -->
-        &emsp;&emsp;&emsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50px"
-            style="margin-right: 60px" />
-        <!-- HTML5 -->
-        &emsp;&emsp;&emsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50px"
-            style="margin-right: 60px" />
-        <!-- CSS3 -->
-        &emsp;&emsp;&emsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50px"
-            style="margin-right: 60px" />
-        <!-- MySQL -->
-        &emsp;&emsp;&emsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50px"
-            style="margin-right: 60px" />
-        <!-- MongoDB -->
-        &emsp;&emsp;&emsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="50px"
-            style="margin-right: 60px" />
-        <!-- Bootstrap -->
-        &emsp;&emsp;&emsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="50px"
-            style="margin-right: 60px" />
-       <picture>
-        <!-- Dark Mode (white icon) -->
-          <source media="(prefers-color-scheme: dark)" 
-          srcset="https://cdn.simpleicons.org/github/ffffff">
-       <!-- Light Mode (black icon) -->
-          &emsp;&emsp;&emsp;<img src="https://cdn.simpleicons.org/github/000000" width="50px" style="margin-right: 60px;">
-      </picture>
-        <!-- VS Code -->
-        &emsp;&emsp;&emsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="50px"
-            style="margin-right: 60px" />
-    </span>
+## Tech Stack
+
+### Frontend
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap" alt="HTML, CSS, JavaScript and Bootstrap" />
 </p>
 
+### Backend
+<p>
+  <img src="https://skillicons.dev/icons?i=php,python" alt="PHP and Python" />
+</p>
+
+- PHP
+- Python (basic)
+- CRUD operations
+- Authentication systems
+
+### Databases
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb" alt="MySQL and MongoDB" />
+</p>
+
+- MySQL
+- MongoDB (basic)
+- DBMS and database management
+
+### Tools & Development Environment
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,linux" alt="Git, GitHub, Visual Studio Code and Linux" />
+</p>
+
+- Git and GitHub
+- XAMPP
+- Visual Studio Code
+- Linux (basic)
+
+### Currently Learning
+<p>
+  <img src="https://skillicons.dev/icons?i=django,nextjs,react" alt="Django, Next.js and React" />
+</p>
+
+- Django
+- Backend APIs and REST APIs
+- AI integration
+- Advanced JavaScript
+- Next.js
+
 ---
 
+## Featured Projects
 
-<picture>
-  <source media="(prefers-color-scheme: dark)"
-    srcset="https://readme-typing-svg.demolab.com?font=Montserrat&weight=700&size=40&duration=7000&pause=800&color=FFFFFF&center=true&vCenter=true&width=800&lines=%F0%9F%99%8F+THANKS+FOR+VISITING;">
-  <img
-    src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=700&size=40&duration=7000&pause=800&color=000000&center=true&vCenter=true&width=800&lines=%F0%9F%99%8F+THANKS+FOR+VISITING;" />
-</picture>
+### 01 · AI-Based Web Application
+**Status: In Progress**
 
+Developing an AI-powered web application using React.js and Next.js, integrating backend services and intelligent AI features.
+
+**Technologies:** Artificial Intelligence, React.js, Next.js, HTML, CSS, JavaScript, Python, backend integration, and application testing.
+
+### 02 · E-Commerce Website
+A full-stack e-commerce website featuring an admin dashboard, product and order management, and built-in admin chat functionality.
+
+**Technologies:** HTML, CSS, JavaScript, PHP, and MySQL.
+
+### 03 · Hospital Management System
+A web-based hospital management system with separate Admin, Reception, and Patient panels. The application includes login authentication, patient records, and appointment management.
+
+**Technologies:** HTML, CSS, JavaScript, PHP, and MySQL.
+
+> Project repository links can be added to each project once the corresponding public repository URLs have been confirmed. No repository or demo links are guessed here.
 
 ---
+
+## Experience
+
+### Cyber Cafe Operator
+**Krishna Communication · New Delhi**  
+*August 2023 – October 2026*
+
+- Managed customer service, client handling, and query resolution for online and documentation services.
+- Handled UAN generation, EPFO services, and PF-related online applications.
+- Processed PAN Card, EWS, Income, Caste, and Domicile Certificate applications.
+- Managed government portal services, online registrations, job applications, and examination forms.
+- Performed data entry, FIR and PCC processing, and document management.
+
+---
+
+## Education
+
+| Qualification | Institution | Period |
+|---|---|---|
+| **Bachelor of Computer Application (BCA)** | Indira Gandhi National Open University (IGNOU), Delhi | June 2023 – October 2026 |
+| **Advanced Diploma in Computer Engineering (ADCE)** | Indian Institute of Computer Science (IICS), Pitampura, Delhi | July 2023 – December 2025 |
+| **Senior Secondary (12th)** | CBSE, Delhi | April 2022 – May 2023 |
+| **Matriculation (10th)** | CBSE, Delhi | April 2020 – August 2021 |
+
+---
+
+## Certification & Workshop
+
+### BE10X — AI Tools & Live AI Workshop
+
+Participated in a live workshop focused on practical applications of AI tools.
+
+- Explored ChatGPT, Google Gemini, Microsoft Copilot, and Gamma AI.
+- Learned about AI-assisted content creation, productivity, presentation generation, and task automation.
+
+---
+
+## Current Focus
+
+I'm currently strengthening my development foundations and exploring:
+
+- Backend development and API integration
+- Django and REST APIs
+- Advanced JavaScript and Next.js
+- AI integration in web applications
+- Building responsive, efficient, and maintainable applications
+
+**Career direction:** AI and Machine Learning Engineering.
+
+---
+
+## My Approach
+
+I believe in learning by building. Each project helps me understand frontend development, backend logic, databases, and real-world problem solving more deeply. I aim to create useful, reliable digital solutions while steadily developing my technical skills.
+
+---
+
+## GitHub Activity
+
+<div align="center">
+
+[![Sachin's GitHub activity](https://github-readme-activity-graph.vercel.app/graph?username=toughefforts&bg_color=080B12&color=F5F7FA&line=00D6A0&point=38BDF8&area=true&hide_border=true)](https://github.com/toughefforts)
+
+</div>
+
+---
+
+## Connect
+
+<div align="center">
+
+**Have an idea, project, or opportunity to discuss?**
+
+[![Email](https://img.shields.io/badge/Email-officialsachin9910%40gmail.com-00D6A0?style=for-the-badge&logo=gmail&logoColor=white)](mailto:officialsachin9910@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-toughefforts-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/toughefforts)
+[![GitHub](https://img.shields.io/badge/GitHub-toughefforts-111827?style=for-the-badge&logo=github&logoColor=white)](https://github.com/toughefforts)
+
+*Sachin Sharma · Full Stack & Backend Developer · New Delhi, India*
+
+</div>
